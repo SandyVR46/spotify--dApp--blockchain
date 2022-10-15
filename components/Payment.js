@@ -49,7 +49,7 @@ const Payment = () => {
         setPaid(true)
     })
   }
-  console.log(isPaid)
+
 
 
   const payClicked = async () => {
