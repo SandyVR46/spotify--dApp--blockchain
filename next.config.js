@@ -14,6 +14,8 @@ const nextConfig = {
       'i.ytimg.com',
       'angartwork.akamaized.net'
     ],
+    loader:'akamai',
+    path:'/',
   },
 }
 
