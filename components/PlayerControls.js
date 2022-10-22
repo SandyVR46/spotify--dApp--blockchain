@@ -4,7 +4,7 @@ import previous from '../assets/previous.svg'
 import speaker from '../assets/speaker.svg'
 import repeat from '../assets/repeat.svg'
 import shuffle from '../assets/shuffle.svg'
-import PlayRounded from '../assets/PlayRounded.svg'
+import PlayRounded from '../assets/playRounded.svg'
 import pauseIcon from '../assets/pause.svg'
 import { useContext } from "react"
 import { SpotifyContext } from "../context/context"
